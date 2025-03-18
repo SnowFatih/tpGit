@@ -1,4 +1,16 @@
-# README DE CAKICI FATIH
+# Tp d'apprentissage de Git
+
+18/03/2025
+
+# CAKICI Fatih
+
+## Information
+
+Le tp consite à faire diverse commande pour apprendre git en ligne de commande
+
+ceci est un ajout de la branch develop
+
+---
 
 Je viens de créer de readme et ce repo pour pouvoir faire le tp de gitinit (il a l'air trop dur olalala 🥵)
 
